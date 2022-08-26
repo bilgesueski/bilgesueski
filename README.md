@@ -1,5 +1,7 @@
-### Hi there 👋
-### I'm Bilgesu!
+# Hi there 👋
+## I'm Bilgesu!
+### I'm Computer Engineering student
+
 <!--
 **bilgesueski/bilgesueski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning React
-📫 How to reach me: bilgesuesk@gmail.com
+- 📫 How to reach me: bilgesuesk@gmail.com
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
 
