@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning React
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
+
