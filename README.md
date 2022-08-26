@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ✨ I'm interested in Front-End development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: bilgesuesk@gmail.com
 
