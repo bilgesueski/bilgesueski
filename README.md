@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=your-github-bilgesueski)
+
