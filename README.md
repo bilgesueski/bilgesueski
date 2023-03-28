@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 📧 How to reach me: bilgesuesk@gmail.com
 
-
+<!--
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=your-github-bilgesueski&color=ff69b4)
-
+-->
