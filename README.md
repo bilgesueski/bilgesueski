@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👁️ I’m currently learning Next.js
 -->
 - ✨ I'm interested in Front-End development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on React.js
 - 📧 How to reach me: bilgesuesk@gmail.com
 <!--
 <!--
