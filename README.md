@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ✨ I'm interested in Front-End development
 - 🌱 I’m currently working on React.js
 - 🧚‍♀️ You can call me susu!
-- 📧 How to reach me: bilgesuesk@gmail.com
+- 📧 How to reach me: hello@ekshi.dev
 <!--
 <!--
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
