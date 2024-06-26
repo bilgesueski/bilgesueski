@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👁️ I’m currently learning Next.js
 -->
 - ✨ I'm interested in Front-End development
-- 🌱 I’m currently working on React.js
+- 🌱 I’m currently working on React Native
 - 🧚‍♀️ You can call me susu!
 - 📧 How to reach me: hello@ekshi.dev
 <!--
