@@ -1,40 +1,5 @@
-# Hi🌝 I'm Bilgesu!
-
-<!--
-**bilgesueski/bilgesueski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👁️ I’m currently learning Next.js
--->
-- ✨ I'm interested in Front-End development
-- 🌱 I’m currently working on React Native
-- 🧚‍♀️ You can call me susu!
-- 📧 How to reach me: hello@ekshi.dev
-<!--
-<!--
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=bilgesueski&show_icons=true&theme=radical)
-### Profile Views
-![](https://komarev.com/ghpvc/?username=your-github-bilgesueski&color=ff69b4)
--->
-<!--
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
--->
-<!--
-![](https://github-readme-stats.vercel.app/api?username=bilgesueski&theme=calm&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bilgesueski&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgesueski&theme=calm&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=bilgesueski&icon=5&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- colophon:start · made with colophon.ayhan.fyi -->
+<picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="colophon/main-phone-light.329ac05c.svg"><img src="colophon/main-desk-light.6026380c.svg" alt="bilgesu. Bilgesu builds web interfaces in JavaScript and React. Recent repositories cover React projects and classic data structures exercises." width="100%" align="left"></picture>
+<img src="data:null;," width="100%" height="0" align="left" alt="">
+<p><a href="https://ekshi.dev"><picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="colophon/link-0-phone-light.3b9ab716.svg"><img src="colophon/link-0-desk-light.b91b2b6a.svg" alt="Website" width="25%"></picture></a><a href="https://www.linkedin.com/in/bilgesueski/"><picture><source media="(max-width: 600px) and (pointer: coarse)" srcset="colophon/link-1-phone-light.61b1c958.svg"><img src="colophon/link-1-desk-light.e975c58c.svg" alt="LinkedIn" width="25%"></picture></a></p>
+<!-- colophon:end -->
